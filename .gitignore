@@ -1,0 +1,7 @@
+patches/
+bak*/
+*.orig
+st
+*.diff
+*.o
+*.1
